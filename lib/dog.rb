@@ -9,7 +9,7 @@ class Dog
   end
   
   def name
-    "#{dog_name}"
+    "#{@dog_name}"
  
   
   def breed=(dog_breed)
