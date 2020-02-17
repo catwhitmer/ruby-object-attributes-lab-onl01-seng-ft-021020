@@ -22,4 +22,4 @@ end
 
  
   #def name
-    "#{dog_name}"
+    #"#{dog_name}"
