@@ -20,3 +20,6 @@ end
 
 
 
+ 
+  #def name
+    "#{dog_name}"
